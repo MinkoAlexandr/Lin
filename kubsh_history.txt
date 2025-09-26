@@ -1,0 +1,21 @@
+gdk
+\q
+gfj
+echo 123
+\q
+echo "123"
+\q
+echo "123"
+\q
+echo "123"
+\q
+echo "123"
+\`
+\q
+echo "123"
+\q
+echo "123"
+\q
+echo "123"
+\q
+echo "123"
